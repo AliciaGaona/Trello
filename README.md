@@ -57,7 +57,9 @@ Guardamos el id del nuevo tablero, que viene en el response de la petición en p
 
 
 
-## Busca cómo obtener la información de un board a partir de su ID
+## Busca cómo obtener la lista de cards de un board
+
+
 
 
 
