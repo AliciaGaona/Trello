@@ -114,4 +114,8 @@ Se crea nueva card en mi tablero Trello
 ![image](https://user-images.githubusercontent.com/99162884/167479770-a8221c31-bc6f-458c-8a02-4615b0d76349.png)
 
 
+Referencia de ejercicio: https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/blob/main/semanas/semana_4/6_api_rest_trello.md
+
+Hecho en LaunchX, guiado y comandado por @CarloGuilmar
+
 
