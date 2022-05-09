@@ -37,8 +37,10 @@ Mandas un post con la información que necesitas para crear un nuevo tablero.
 
 Info: TOKEN, KEY API, NOMBRE
 
+Petición:
 
-![image](https://user-images.githubusercontent.com/99162884/167475270-25b18a5e-93ec-4f32-85d3-26ce89b1d5c0.png)
+![image](https://user-images.githubusercontent.com/99162884/167475869-8ebd5660-56f7-456a-892f-7878327c7bd9.png)
+
 
 Respuesta API Trello:
 
